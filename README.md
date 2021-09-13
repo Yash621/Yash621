@@ -10,7 +10,7 @@
 
 <hr>
 
-![background.png](./images/github-back.jpg)
+![background.png](https://i.redd.it/sopngqp8ruu11.png)
 
 <br>
 <hr>

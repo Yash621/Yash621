@@ -1,5 +1,7 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=yash621)
+
 ![banner.png](./images/github-banner.png)
 <hr>
 

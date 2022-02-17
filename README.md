@@ -59,10 +59,11 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 ## 👨 Social
 
 1. [LinkedIn](https://www.linkedin.com/in/yash-goel-610543213/)
-2. [YouTube](https://www.youtube.com/channel/UCiFXmQDlwmyLf8NpCy6AgHw)
-3. [Medium](https://medium.com/@yg17381) 
-4. [Instagram](https://www.instagram.com/yashn_99/)
-5. [Twitter](https://twitter.com/yashn_99/)
+2. [Medium](https://medium.com/@yg17381) 
+3. [YouTube](https://www.youtube.com/channel/UCiFXmQDlwmyLf8NpCy6AgHw) 
+4. [Twitter](https://twitter.com/yashn_99/)
+5. [Instagram](https://www.instagram.com/yashn_99/)
+
 
 
 

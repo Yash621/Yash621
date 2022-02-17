@@ -31,7 +31,6 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 - Technical content Manager, [Scaler](https://www.scaler.com/) (January 2021 - Present)
 - Co-Founder and Lead developer, [NeetiKit](https://neetikit.herokuapp.com/) (August 2021 - January 2021)
 - Software Engineer Intern, [Voxel](https://www.voxelai.com/) (November 2021 - January 2021)
-- Data Scientist, [Codebugged AI](https://codebugged.com/) (August 2020 - December 2021)
 - Mentor and Open Source Contributor [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) (August 2021 - December 2021)
 - Data Science Intern, [Estater](https://www.estater.com/) (August 2021 - September 2021)
 - Software Engineer Intern, [ATTENDIT](http://www.attendit.in/) (March 2021 - June 2021)

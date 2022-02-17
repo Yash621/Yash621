@@ -64,7 +64,16 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 4. [Twitter](https://twitter.com/yashn_99/)
 5. [Instagram](https://www.instagram.com/yashn_99/)
 
+<hr>
 
+```
+ “Have the courage to follow your heart and intuition. They 
+   somehow already know what you truly want to become.
+      Everything else is secondary.”
+                                                         ― Steve Jobs
+                                                         ```
+
+<hr>
 
 
 

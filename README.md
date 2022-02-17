@@ -47,7 +47,7 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 
 ## Github Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=Yash621h&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=yash621&theme=react-dark&hide_border=true&area=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash621">
 

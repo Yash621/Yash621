@@ -12,45 +12,72 @@
 
 <hr>
 
-![background.png](https://i.redd.it/sopngqp8ruu11.png)
+## About
+
+I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara College(University of Delhi).I am mainly focused towards Full Stack Web Development and have done my projects and internships under the same.I love contributing to open source and actively contribute to various cool projects. My other interests aside from Full Stack Development are Machine Learning and DevOps.
+
+<table>
+  <tr>
+      <td><a href="https://github.com/Yash621"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/yashn_99"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/yash-goel-610543213/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:yg17381@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+## Timeline
+
+- Software Engineer Intern, [ReachTheTop.io](https://www.reachthetop.io/) (May 2021 - Present)
+- Technical content Manager, [Scaler](https://www.scaler.com/) (January 2021 - Present)
+- Co-Founder and Lead developer, [NeetiKit](https://neetikit.herokuapp.com/) (August 2021 - January 2021)
+- Software Engineer Intern, [Voxel](https://www.voxelai.com/) (November 2021 - January 2021)
+- Data Scientist, [Codebugged AI](https://codebugged.com/) (August 2020 - December 2021)
+- Mentor and Open Source Contributor [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) (August 2021 - December 2021)
+- Data Science Intern, [Estater](https://www.estater.com/) (August 2021 - September 2021)
+- Software Engineer Intern, [ATTENDIT](http://www.attendit.in/) (March 2021 - June 2021)
+- Data Science Intern, [Get Boarded](https://getboarded.tech/) (May 2020 - August 2020)
+- Research Intern, [Sri Venkateswara College](http://svc.ac.in/) (May 2020 - July 2020)
+
+## 👯 I’m looking to collaborate on
+
+* For doing projects on **Full stack and ML**.
+* For doing **Research Papers**.
+* For doing projects related to **Devops**.
+* For **Flutter/React Native** Projects.
+
+## Github Stats
+
+![](https://activity-graph.herokuapp.com/graph?username=Yash621h&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash621">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yash621&count_private=true&show_icons=true&theme=light" alt="Yash's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash621&layout=compact&theme=light"/>
 
 <br>
-<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yash621" alt="devded" /> </p>
 
-<!-- ----------- HEAD SECTION END ------------ -->
+## 👨 Social
 
-<!-- ----------- TECH STACK SECTION ------------ -->
+1. [LinkedIn](https://www.linkedin.com/in/yash-goel-610543213/)
+2. [YouTube](https://www.youtube.com/channel/UCiFXmQDlwmyLf8NpCy6AgHw)
+3. [Medium](https://medium.com/@yg17381) 
+4. [Instagram](https://www.instagram.com/yashn_99/)
+5. [Twitter](https://twitter.com/yashn_99/)
 
-![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/Typescript-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nodejs](https://img.shields.io/badge/Nodejs-%23092E20.svg?style=for-the-badge&logo=Node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![VUE.JS](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDb-%2300f.svg?style=for-the-badge&logo=MongoDb&logoColor=white)![firebase](https://img.shields.io/badge/firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<hr>
 
-<!-- ----------- TECH STACK SECTION END------------ -->
 
-<!-- ----------- GITHUB STATS SECTION ------------ -->
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash621&show_icons=true&count_private=true&theme=react" />
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yash621&theme=react" />
 
-[![yash621's github activity graph](https://activity-graph.herokuapp.com/graph?username=yash621&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/yash621/github-readme-activity-graph)
 
-<hr>
 
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
 
-<!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-<p align="center">
-<img src="./images/connect-with-me.png">
-</p>
 
-<p align="center">
-<a href="https://discordapp.com/users/702565988922818622" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="yashgoel"/></a> <a href="https://www.linkedin.com/in/yash-goel-610543213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash_linkedIn"/></a> <a href="https://www.instagram.com/memeskathela/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash" /></a>
-<br>
-<br>
-<a href="https://twitter.com/yashn_99" target="blank"><img src="https://img.shields.io/twitter/follow/yashn_99?logo=twitter&style=for-the-badge" alt="yash621" /></a>
-</p>
 
-<hr>
+
+
+

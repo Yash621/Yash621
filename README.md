@@ -71,7 +71,7 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
    somehow already know what you truly want to become.
       Everything else is secondary.”
                                                          ― Steve Jobs
-                                                         ```
+```
 
 <hr>
 

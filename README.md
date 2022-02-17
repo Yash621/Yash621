@@ -53,7 +53,6 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yash621&count_private=true&show_icons=true&theme=light" alt="Yash's github stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash621&layout=compact&theme=light"/>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yash621" alt="devded" /> </p>

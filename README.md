@@ -52,8 +52,7 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 
 
 <br>
-
- ![](https://visitor-badge.glitch.me/badge?page_id=Yash621) 
+![](https://visitor-badge.glitch.me/badge?page_id=Yash621) 
 
 
 

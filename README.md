@@ -38,9 +38,9 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 ## 👯 I’m looking to collaborate on
 
 * For doing projects on **Full stack and ML**.
-* For doing **Research Papers**.
 * For doing projects related to **Devops**.
 * For **Flutter/React Native** Projects.
+* For doing **Research Papers**.
 
 ## Github Stats
 

@@ -1,7 +1,5 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Yash621)
-
 ![banner.png](./images/github-banner.png)
 
 <hr>
@@ -54,6 +52,8 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 
 
 <br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Yash621)
 
 ## 👨 Social
 

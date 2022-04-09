@@ -25,7 +25,7 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 
 ## Timeline
 
-- Software Engineer Intern, [ReachTheTop.io](https://www.reachthetop.io/) (May 2021 - Present)
+- Software Engineer Intern, [ReachTheTop.io](https://www.reachthetop.io/) (May 2021 - Mar 2022)
 - Technical content Manager, [Scaler](https://www.scaler.com/) (January 2021 - Present)
 - Co-Founder and Lead developer, [NeetiKit](https://neetikit.herokuapp.com/) (August 2021 - January 2021)
 - Software Engineer Intern, [Voxel](https://www.voxelai.com/) (November 2021 - January 2021)

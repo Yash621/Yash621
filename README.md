@@ -25,7 +25,11 @@ I am Yash Goel. I am a third-year undergraduate student at Sri Venkateswara Coll
 
 ## Timeline
 
-- Software Engineer Intern, [ReachTheTop.io](https://www.reachthetop.io/) (May 2021 - Mar 2022)
+- Software Engineer [PropertyLoop](https://propertyloop.co.uk/more-info) (Aug 2022 - Present)
+- MLH Fellow @Solana, [MLH Fellowship](https://fellowship.mlh.io/) (May 2022 - Aug 2022)
+- Student Developer, [Google Summer of code](https://summerofcode.withgoogle.com/) (May 2022 - Sept 2022)
+- Software Engineer Intern, [Capital Placement](https://capital-placement.com/) (April 2022 - July 2022)
+- Software Engineer Intern, [ReachTheTop.io](https://www.reachthetop.io/) (May 2021 - June 2022)
 - Technical content Manager, [Scaler](https://www.scaler.com/) (January 2022 - April 2022)
 - Co-Founder and Lead developer, [NeetiKit](https://neetikit.herokuapp.com/) (August 2021 - February 2022)
 - Software Engineer Intern, [Voxel](https://www.voxelai.com/) (November 2021 - January 2022)

@@ -12,7 +12,7 @@
 
 ## About
 
-I am Yash Goel. I am a currently working as a software engineer at a US based startup. I am mainly interested and focused towards Full Stack Web Development and have done my projects and internships under the same.I love contributing to open source and actively contributing to various cool projects. My other interests aside from Full Stack Development are Machine Learning and DevOps.
+Hey ! I am Yash Goel. I am a currently working as a software engineer at a US based startup. I am mainly interested and focused towards Full Stack Web Development and have done my projects and internships under the same.I love contributing to open source and actively contributing to various cool projects. My other interests aside from Full Stack Development are Machine Learning and DevOps.
 
 <table>
   <tr>

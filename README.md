@@ -45,8 +45,6 @@ Hey ! I am Yash Goel. I am a currently working as a software engineer at a US ba
 
 ![](https://activity-graph.herokuapp.com/graph?username=yash621&theme=react-dark&hide_border=true&area=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash621">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Yash621&count_private=true&show_icons=true&theme=light" alt="Yash's github stats"/>
 
 

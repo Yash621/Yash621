@@ -59,10 +59,8 @@ Hey ! I am Yash Goel. I am a currently working as a software engineer at a US ba
 ## 👨 Social
 
 1. [LinkedIn](https://www.linkedin.com/in/yash-goel-610543213/)
-2. [Portfolio](https://yash621.github.io/portfolio_me/)
-3. [Medium](https://medium.com/@yg17381) 
-4. [Twitter](https://twitter.com/yashn_99/)
-5. [Instagram](https://www.instagram.com/yashn_99/)
+2. [Medium](https://medium.com/@yg17381) 
+3. [Twitter](https://twitter.com/yashn_99/)
 <!-- 4. [YouTube](https://www.youtube.com/channel/UCiFXmQDlwmyLf8NpCy6AgHw)  -->
 <hr>
 

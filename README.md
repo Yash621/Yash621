@@ -47,10 +47,6 @@ Hey ! I am Yash Goel. I am a currently working as a software engineer at a US ba
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yash621&count_private=true&show_icons=true&theme=light" alt="Yash's github stats"/>
 
-
-<br>
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Yash621)
 
 

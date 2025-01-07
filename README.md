@@ -27,18 +27,12 @@ Hey ! I am Yash Goel. I am a currently working as a software engineer at a US ba
 
 - Software Engineer [CatalyzeX](https://www.catalyzex.com/) (Sept 2022 - Present)
 - Software Engineer [PropertyLoop](https://propertyloop.co.uk/more-info) (Aug 2022 - Sept 2022)
+- Freelance Software Engineer [Multiple Startups] (May 2020 - July 2022)
 - MLH Fellow @Solana, [MLH Fellowship](https://fellowship.mlh.io/) (May 2022 - Aug 2022)
 - Student Developer, [Google Summer of code](https://summerofcode.withgoogle.com/) (May 2022 - Sept 2022)
-- Software Engineer Intern, [Capital Placement](https://capital-placement.com/) (April 2022 - July 2022)
-- Software Engineer Intern, [ReachTheTop.io](https://www.reachthetop.io/) (May 2021 - June 2022)
 - Technical content Manager, [Scaler](https://www.scaler.com/) (January 2022 - April 2022)
 - Co-Founder and Lead developer, [NeetiKit](https://neetikit.herokuapp.com/) (August 2021 - February 2022)
-- Software Engineer Intern, [Voxel](https://www.voxelai.com/) (November 2021 - January 2022)
 - Mentor and Open Source Contributor [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) (August 2021 - December 2021)
-- Data Science Intern, [Estater](https://www.estater.com/) (August 2021 - September 2021)
-- Software Engineer Intern, [ATTENDIT](http://www.attendit.in/) (March 2021 - June 2021)
-- Data Science Intern, [Get Boarded](https://getboarded.tech/) (May 2020 - August 2020)
-- Research Intern, [Sri Venkateswara College](http://svc.ac.in/) (May 2020 - July 2020)
 
 ## 👯 I’m looking to collaborate on
 
